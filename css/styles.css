@@ -908,7 +908,7 @@ footer {
 .btn,
 .btn:link,
 .btn:visited {
-    margin-top: 1.8rem;
+    margin-top: 1.2rem;
     margin-left: 0;
     text-transform: uppercase;
     text-decoration: none;
@@ -970,7 +970,7 @@ footer {
 
 .btn-text:link,
 .btn-text:visited {
-    font-size: .8rem;
+    font-size: 1.2rem;
     color: rgb(244, 221, 8);
     display: inline-block;
     text-decoration: none;
@@ -1049,7 +1049,7 @@ footer {
 }
 
 .linkedin{
-    width: 4.25rem;
+    width: 2rem;
     margin-bottom: 1px;
     margin-right: .6rem;
 }
