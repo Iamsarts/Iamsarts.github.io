@@ -265,8 +265,8 @@ textarea:focus {
     background-color: white;
 }
 
-#tyler-bio {
-    background-image: url(../img/tyler-sartison-bio-background.jpg)
+#person-one-bio {
+    background-image: url(../img/person-one-bio-background.jpg)
 }
 
 #person-two-bio {
@@ -502,7 +502,8 @@ footer {
 /* end bios-rows */
 
 .paragraph {
-    font-size: .8rem;
+    font-family: 'Lato', sans-serif;
+    font-size: .9rem;
   }
 
 /*.paragraph:not(:last-child) {
