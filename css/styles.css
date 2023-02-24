@@ -141,6 +141,8 @@ textarea:focus {
 }
 
 #menu nav li a {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
     display: block;
     text-decoration: none;
     padding: 10px;
@@ -970,7 +972,8 @@ footer {
 
 .btn-text:link,
 .btn-text:visited {
-    font-size: 1.2rem;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.1rem;
     color: rgb(244, 221, 8);
     display: inline-block;
     text-decoration: none;
