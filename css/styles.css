@@ -6,7 +6,9 @@
     
 }
 
-body,
+body {
+    background-color: rgb(17, 11, 1);
+}
 
 html {
     font-family: sans-serif;
